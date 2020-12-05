@@ -1,4 +1,9 @@
-# kottans-frontend
+# Front-End Course. Contents
+---
+
+## Stage 0. Self-Study
+---
+> Also keeping cheetsheets [here](https://github.com/yaripey/some-knowledge).
 
 ## Linux CLI, and HTTP
 ![Course end screenshot](task_linux_cli/screen.png)

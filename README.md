@@ -56,3 +56,6 @@ These courses were very interesting for me. I learned html/css by myself through
 ![flexboxfroggy](task_responsive_web_design/flexboxfroggy.png)
 
 I think that responsive design is one of the most crucial parts of front-end development right now and I'm happy that these lessons were included in the course. They were extremely informative and easy to pick up. And I loved the frog-minigame, frogs are the best :frog:.
+
+## HTML & CSS Practice
+This was an interesting task for me. I tried to make the design as close as possible to the template in the task and did my best in implementing what I learned on this course before.

@@ -59,3 +59,8 @@ I think that responsive design is one of the most crucial parts of front-end dev
 
 ## HTML & CSS Practice
 This was an interesting task for me. I tried to make the design as close as possible to the template in the task and did my best in implementing what I learned on this course before.
+
+## JS-Basics
+![udacity](task_js_basics/udacity.png)
+![freecodecamp](task_js_basics/freecodecamp.png)
+This was a tough one. I learned a whole lot about the JS in general. Learning on my own mistakes is one of the best methods and there was a lot of learning. Definitely implementing a lot of interesting methods from algorythms section into my own workflow.

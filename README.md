@@ -64,3 +64,8 @@ This was an interesting task for me. I tried to make the design as close as poss
 ![udacity](task_js_basics/udacity.png)
 ![freecodecamp](task_js_basics/freecodecamp.png)
 This was a tough one. I learned a whole lot about the JS in general. Learning on my own mistakes is one of the best methods and there was a lot of learning. Definitely implementing a lot of interesting methods from algorythms section into my own workflow.
+
+## DOM
+![udacity](task_js_dom/udacity.png)
+![freecodecamp](task_js_dom/freecodecamp.png)
+This part was VERY useful. I've found a lot of new information for myself and going to use a lot of it. The block about events was very interesting and everything works completely NOT how I imagined to at first. Tasks at freecodecamp were challenging but interesting.

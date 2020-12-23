@@ -17,8 +17,8 @@
 
 - [x] 3. Intro to HTML & CSS
 - [x] 4. Responsive Web Design
-- [ ] 5. HTML & CSS Practive
-- [ ] 6. JavaScript Basics
+- [X] 5. HTML & CSS Practive
+- [X] 6. JavaScript Basics
 - [ ] 7. Document Object Model
 
 #### Advanced Topics
@@ -58,6 +58,8 @@ These courses were very interesting for me. I learned html/css by myself through
 I think that responsive design is one of the most crucial parts of front-end development right now and I'm happy that these lessons were included in the course. They were extremely informative and easy to pick up. And I loved the frog-minigame, frogs are the best :frog:.
 
 ## HTML & CSS Practice
+[Demo](https://yaripey.github.io/popup-task/)
+[Code base](https://github.com/yaripey/popup-task)
 This was an interesting task for me. I tried to make the design as close as possible to the template in the task and did my best in implementing what I learned on this course before.
 
 ## JS-Basics
@@ -68,4 +70,22 @@ This was a tough one. I learned a whole lot about the JS in general. Learning on
 ## DOM
 ![udacity](task_js_dom/udacity.png)
 ![freecodecamp](task_js_dom/freecodecamp.png)
+
+[Demo](https://yaripey.github.io/menu-task/)
+[Code base](https://github.com/yaripey/menu-task)
 This part was VERY useful. I've found a lot of new information for myself and going to use a lot of it. The block about events was very interesting and everything works completely NOT how I imagined to at first. Tasks at freecodecamp were challenging but interesting.
+
+## Building a Tiny JS World (pre-OOP)
+[Demo](https://yaripey.github.io/a-tiny-JS-world/)
+[Code base](https://github.com/yaripey/a-tiny-JS-world)
+A simple task yet took me quite a while to get it done right. Interesting iteration of something more complicated.
+
+## Object Oriented JS
+![udacity](task_js_oop/udacity.png)
+
+Frogger:
+
+[Demo](https://yaripey.github.io/frontend-nanodegree-arcade-game/)
+[Code base](https://github.com/yaripey/frontend-nanodegree-arcade-game)
+
+This was an interesting task for me, as I realy love videogames and I see them as a perfect tool to learn programing since we can create so many cases and tests just playing a game. 

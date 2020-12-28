@@ -19,12 +19,12 @@
 - [x] 4. Responsive Web Design
 - [X] 5. HTML & CSS Practive
 - [X] 6. JavaScript Basics
-- [ ] 7. Document Object Model
+- [X] 7. Document Object Model
 
 #### Advanced Topics
-- [ ] 8. Building a Tiny JS World (pre-OOP)
-- [ ] 9. Object oriented JS
-- [ ] 10. OOP exercise
+- [X] 8. Building a Tiny JS World (pre-OOP)
+- [X] 9. Object oriented JS
+- [X] 10. OOP exercise
 - [ ] 11. Offline Web Applications
 - [ ] 12. Memory pair game
 - [ ] 13. Website Performance Optimization
